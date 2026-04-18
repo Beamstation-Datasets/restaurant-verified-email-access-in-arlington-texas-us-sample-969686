@@ -6,17 +6,17 @@
   "config_category": "email",
   "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
   "config_name": "Restaurant Verified Email Access in Arlington, Texas, US",
-  "export_job_id": "d1315408-3ff0-4e24-b822-4093f0cff308",
+  "export_job_id": "4622c30d-083c-4de2-9455-2ebe82013e1e",
   "github_org": "Beamstation-Datasets",
   "id_short": 969686,
   "location_name": "Arlington",
   "location_type": "city",
   "repo_name": "restaurant-verified-email-access-in-arlington-texas-us-sample-969686",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/969686/beamstation_969686_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_pct": 8.91,
+  "sample_pct": 9.78,
   "sample_records": 18,
   "sample_sha256": "225541074787c506199594a2f2161e9d5d7466b196a91cc3816d25f3eb3798e0",
   "sample_size_bytes": 92354,
-  "total_records": 202,
-  "updated_at": "2026-04-07T18:49:38.553502+00:00"
+  "total_records": 184,
+  "updated_at": "2026-04-15T00:01:28.871098+00:00"
 }
