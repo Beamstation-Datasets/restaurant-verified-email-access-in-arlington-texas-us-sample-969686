@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d1315408-3ff0-4e24-b822-4093f0cff308",
+  "export_job_id": "4622c30d-083c-4de2-9455-2ebe82013e1e",
   "id_short": 969686,
-  "published_at": "2026-04-16T07:34:23Z",
+  "published_at": "2026-04-18T07:19:42Z",
   "repo_name": "restaurant-verified-email-access-in-arlington-texas-us-sample-969686",
   "sample_asset_name": "beamstation_969686_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/969686/beamstation_969686_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_records": 18,
   "sample_sha256": "225541074787c506199594a2f2161e9d5d7466b196a91cc3816d25f3eb3798e0",
   "sample_size_bytes": 92354,
-  "total_records": 202
+  "total_records": 184
 }
