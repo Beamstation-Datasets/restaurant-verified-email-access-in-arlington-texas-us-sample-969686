@@ -9,9 +9,9 @@
 | Dataset ID | `969686` |
 | Location | Arlington |
 | Category | Restaurants |
-| Full dataset size | 202 records |
-| Free sample size | 18 records (8.91%) |
-| Last export | 2026-04-07T18:49:38.553502+00:00 |
+| Full dataset size | 184 records |
+| Free sample size | 18 records (9.78%) |
+| Last export | 2026-04-15T00:01:28.871098+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-arlington-texas-us-sample-969686/releases/download/sample-latest/beamstation_969686_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
